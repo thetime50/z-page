@@ -82,9 +82,9 @@
     }
 
     .dialog-enter-active{
-        transition: opacity 03s ease-out;
+        transition: opacity 0.3s ease-out;
         >.content{
-            transition: transform 03s ease-out;
+            transition: transform 0.3s ease-out;
         }
     }
     .dialog-enter{
