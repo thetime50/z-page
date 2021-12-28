@@ -1,0 +1,24 @@
+{
+  "name": "z-page",
+  "version": "0.0.1",
+  "description": "uniapp 弹窗 appendtobody",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetime50/z-page.git"
+  },
+  "keywords": [
+    "uniapp",
+    "弹窗",
+    "appendtobody"
+  ],
+  "author": "thetime50",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetime50/z-page/issues"
+  },
+  "homepage": "https://github.com/thetime50/z-page#readme"
+}
