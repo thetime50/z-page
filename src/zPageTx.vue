@@ -21,7 +21,6 @@
             pageId: { type: String, default: "def" }, // 页面类型 只在指定页面弹窗
             type: { type: String, default: "dialog" }, // 组件类型
             propData:{type:Object,default:()=>({})},
-            visible:{type:Boolean, default: false}, // sync
         },
         data () {
             return {
